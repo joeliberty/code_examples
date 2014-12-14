@@ -1,3 +1,6 @@
+/*
+ * Written by Joe Liberty
+*/
 'use strict';
 var jrsOverlay = function() {}
 jrsOverlay.prototype = {
